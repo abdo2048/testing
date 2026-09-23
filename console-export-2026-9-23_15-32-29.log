@@ -1,0 +1,106 @@
+Content-Security-Policy: The page’s settings blocked an inline script (script-src-elem) from being executed because it violates the following directive: “script-src 'nonce-f89da97a66d8306ac9309a2b47b77f1b' 'self' 'wasm-unsafe-eval' blob: 'sha256-814SnTyn5ALg8TJXV+oyKfWuNiBuC4efTpUrmrxoOCg=' 'sha256-SmTwPjqn0XvcfrmE4x0RbrJTxpXaEf2fSzIn0kj7ckI=' 'sha256-d1dDypqZNlvvw7S73u6vZbvWfwqGGY0cgXENpwDs0Ak=' https://cdn.search.brave.com 'nonce-1RiqY4XRn/M5OdkgG9MfVg=='”. Consider using a hash ('sha256-/+JnGS91InMVX5dEzPyrl1ljAIJbPBt3Hi8+cf+cquI=') or a nonce. 3a9a2fa7-9d56-4629-a9a0-28ce8b142c19:19:51
+This site appears to use a scroll-linked positioning effect. This may not work well with asynchronous panning; see https://firefox-source-docs.mozilla.org/performance/scroll-linked_effects.html for further details and to join the discussion on related tools and features! ask
+A resource is blocked by OpaqueResponseBlocking, please check browser console for details. aHViLmlvLw
+The resource at “https://cdn.search.brave.com/serp/v3/_app/immutable/assets/inter-latin-wght-normal.Dx4kXJAl.woff2” preloaded with link preload was not used within a few seconds. Make sure all attributes of the preload tag are set correctly. ask
+[ABX] No API state captured for this conversation; falling back to clipboard mode. Ask-Brave-Chat-Exporter-2.user.js:520:29
+User messages: 22 Ask-Brave-Chat-Exporter-2.user.js:528:25
+Found AI answer containers: 22 Ask-Brave-Chat-Exporter-2.user.js:589:17
+Clicking answer copy button 1 Ask-Brave-Chat-Exporter-2.user.js:596:25
+Clicking answer copy button 2 Ask-Brave-Chat-Exporter-2.user.js:596:25
+Export failed: DOMException: Clipboard read request was blocked due to lack of user activation.
+    copyAIAnswers moz-extension://59bbd38f-75fb-424d-941d-8940373d3844/userscripts/Ask-Brave-Chat-Exporter-2.user.js?id=77b52647-42da-49ba-8392-633d7c744f05:599
+Ask-Brave-Chat-Exporter-2.user.js:557:21
+    startExport moz-extension://59bbd38f-75fb-424d-941d-8940373d3844/userscripts/Ask-Brave-Chat-Exporter-2.user.js?id=77b52647-42da-49ba-8392-633d7c744f05:557
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:45
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1455
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:31632
+Unknown pseudo-class or pseudo-element ‘-moz-placeholder-shown’.  Ruleset ignored due to bad selector. app.DeFsejz4.css:1:38601
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:52344
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:58959
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:63241
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:63905
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:193586
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:193634
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:193682
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:193730
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:193778
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:193826
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:222761
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:224892
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:225184
+Unknown pseudo-class or pseudo-element ‘-moz-placeholder-shown’.  Ruleset ignored due to bad selector. app.DeFsejz4.css:1:285182
+Unknown pseudo-class or pseudo-element ‘-moz-focus-inner’.  Ruleset ignored due to bad selector. app.DeFsejz4.css:1:330869
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:481444
+Unknown property ‘interpolate-size’.  Declaration dropped. app.DeFsejz4.css:1:483686
+Unknown pseudo-class or pseudo-element ‘-moz-placeholder-shown’.  Ruleset ignored due to bad selector. app.DeFsejz4.css:1:515468
+Unknown property ‘interpolate-size’.  Declaration dropped. app.DeFsejz4.css:1:531659
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:537770
+Error in parsing value for ‘transition-delay’.  Declaration dropped. app.DeFsejz4.css:1:540851
+Ruleset ignored due to bad selector. app.DeFsejz4.css:1:552697
+Unknown property ‘field-sizing’.  Declaration dropped. app.DeFsejz4.css:1:607354
+Error in parsing value for ‘image-rendering’.  Declaration dropped. app.DeFsejz4.css:1:611167
+Error in parsing value for ‘image-rendering’.  Declaration dropped. app.DeFsejz4.css:1:615876
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:626442
+Ruleset ignored due to bad selector. app.DeFsejz4.css:1:650524
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:692020
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:701288
+Unknown pseudo-class or pseudo-element ‘-moz-placeholder-shown’.  Ruleset ignored due to bad selector. app.DeFsejz4.css:1:731838
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:745735
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:746355
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:752525
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:754116
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:754653
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:756771
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:766007
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:768210
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:770600
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:772081
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:779509
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:779846
+Error in parsing value for ‘max-width’.  Declaration dropped. app.DeFsejz4.css:1:787399
+Error in parsing value for ‘max-width’.  Declaration dropped. app.DeFsejz4.css:1:787438
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:788043
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:789765
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:789990
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:792232
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:792455
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:795904
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:808766
+Unknown property ‘line-clamp’.  Declaration dropped. app.DeFsejz4.css:1:809497
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:810108
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:812597
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:815496
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:818951
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:821905
+Error in parsing value for ‘border-radius’.  Declaration dropped. app.DeFsejz4.css:1:884054
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:912731
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:916708
+Unknown pseudo-class or pseudo-element ‘-ms-clear’.  Ruleset ignored due to bad selector. app.DeFsejz4.css:1:927847
+Ruleset ignored due to bad selector. app.DeFsejz4.css:1:1017001
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1019128
+Error in parsing value for ‘display’.  Declaration dropped. app.DeFsejz4.css:1:1021766
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1028343
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1040650
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1048134
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1052850
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1060376
+Unknown property ‘-moz-column-gap’.  Declaration dropped. app.DeFsejz4.css:1:1072136
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:76
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:483
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:890
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:1273
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:1656
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:1967
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:2278
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:2615
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:2952
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:3273
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:3594
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:3870
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:4146
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:4537
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:4921
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:5424
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:5927
+Unknown descriptor ‘var(’ in @font-face rule.  Skipped to next declaration. ask:2:6410
+Error in parsing value for ‘-webkit-text-size-adjust’.  Declaration dropped. ask:2:10416
