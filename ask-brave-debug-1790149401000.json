@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-09-23T07:43:20.999Z",
+  "url": "https://search.brave.com/ask?q=hello+meaning+in+spanish&conversation=09980933418b5fda1049e310c13f6cb453e5",
+  "internalState": {
+    "messages": [
+      {
+        "role": "unknown",
+        "content": "hello meaning in spanish",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "hello meaning in spanish",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "hello meaning in spanish",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "Quick Answer",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "The primary translation for hello in Spanish is hola (pronounced OH-lah), which is a universal, neutral greeting used to greet someone informally, get their attention, or indicate recognition. \n\nBeyond the basic term, context dictates the specific Spanish equivalent:\n\nGreetings: Time-specific formal greetings include buenos días (good morning), buenas tardes (good afternoon), and buenas noches (good evening/night). \n\nPhone Conversations: In Spain, diga is commonly used to answer the phone, while aló is used in regions like Ecuador and Panama; bueno is frequent in Mexico. \n\nWritten Correspondence: Formal letters often begin with estimado/a (dear) or saludos (greetings/regards), while informal notes use querido/a (dear/loved). \n\nWhile hola conveys the simple act of making one's presence known or saying \"here I am,\" other expressions like mucho gusto (nice to meet you) are used specifically during introductions. ",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "what does it mean in arabic",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "what does it mean in arabic",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "what does it mean in arabic",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "Translated \"hello\" to Arabic",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "The most common translation of hello in Arabic is مرحبا (marhaba, pronounced mar-HAH-bah), a neutral, widely understood greeting suitable for both formal and informal settings. \n\nOther common equivalents:\n\nأهلا (ahlan) — \"hi,\" more casual\n\nأهلا وسهلا (ahlan wa sahlan) — \"welcome,\" a warmer/hospitality greeting\n\nالسلام عليكم (as-salamu alaykum) — \"peace be upon you,\" the formal/Islamic greeting, responded to with وعليكم السلام (wa alaykum as-salam) \n\nTime-specific greetings also exist: صباح الخير (sabah al-khair, good morning) and مساء الخير (masa' al-khair, good evening). ",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "مرحبا\ncould be تحية طيبة?",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "could be تحية طيبة?",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "could be تحية طيبة?",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "Confirmed translation of hello",
+        "sources": []
+      },
+      {
+        "role": "unknown",
+        "content": "Yes, but only in a specific context. تحية طيبة is a formal written salutation (like \"Best regards\" or \"Greeting you\"), used to open letters, emails, or official documents. It's not something you'd say out loud to someone in person — for that, مرحبا or أهلا is the natural choice.\n\nSo: تحية طيبة = formal written \"greetings\" ≠ spoken \"hello.\"",
+        "sources": []
+      }
+    ],
+    "resources": []
+  },
+  "resourceAnalysis": {
+    "totalSources": 0,
+    "uniqueDomains": {},
+    "sourcesByType": {},
+    "potentialIssues": [],
+    "fullSourceList": []
+  },
+  "networkIntercepts": []
+}
