@@ -1,0 +1,201 @@
+{
+    "convs": {
+        "099a678db9efc343d9295715ba27de649d45": {
+            "turns": [
+                {
+                    "index": 0,
+                    "question": "what is the best browser for windows from all different engines (old and new)",
+                    "answerMd": "\n\nHere's the best pick per engine family, from modern to legacy:\n\n| Engine | Best Browser | Why |\n|---|---|---|\n| **Blink / Chromium** (new) | Google Chrome | Widest compatibility, fastest JS (V8), largest extension store |\n| **Blink / Chromium** (new) | Microsoft Edge | Best Windows integration, sleeping tabs, AI Copilot, pre-installed |\n| **Blink / Chromium** (new) | Brave | Built-in ad/tracker blocking, privacy-first Chromium |\n| **Gecko** (independent) | Mozilla Firefox | Only major non-Chromium option, open source, strong privacy |\n| **Gecko** (fork) | LibreWolf | Firefox without tracking/AI, very high privacy |\n| **Gecko** (modern fork) | Zen Browser | Firefox with vertical tabs and a polished UI |\n| **Trident** (legacy, dead) | Internet Explorer | Discontinued (Jan 2023); only for legacy intranet sites via Edge's IE Mode |\n| **Goanna / legacy Gecko** (old) | K-Meleon | Still-maintained lightweight browser on the old Gecko/Goanna engine, highly customizable |\n| **Multi-engine** (old) | Lunascape | Switches between Trident, WebKit, and Blink per site (now Chromium-based) |\n\n**TL;DR:** If you want one answer: **Chrome** for raw speed/compatibility, **Edge** if you live in the Microsoft ecosystem, **Firefox** if you want a truly independent engine, **Brave** for privacy without leaving Chromium.\n\nThe \"old engine\" options (Trident/IE, legacy Gecko) are effectively end-of-life — K-Meleon is the last actively maintained browser on a pre-Chromium engine, but it's a niche choice.",
+                    "citationsById": {
+                        "https://www.windowsmode.com/best-browsers-for-windows/": {
+                            "url": "https://www.windowsmode.com/best-browsers-for-windows/",
+                            "title": "15 Best Browsers for Windows in 2026: Tested and Compared - Windows Mode",
+                            "snippet": "## All 15 Browsers at a Glance\nBrowser | Engine | Privacy | Extensions | Best For |\n| --- | --- | --- | --- | --- |\n| Chrome | Chromium | Low | Chrome Store | Widest compatibility |\n| Edge | Chromium | Low | Chrome Store | Windows integration + AI |\n| Firefox | Gecko | Medium | Mozilla Add-ons | Non-Chromium alternative |\n| Brave | Chromium | High | Chrome Sto…",
+                            "favicon": "https://imgs.search.brave.com/UfFTHevbmpipYPpgr6-K99pVRawbIfalcY5iSHyr6Dc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGVmYWZkYjkz/OWZmODU0OTAyN2Ey/MmMxOGFmNmRlOTlj/MjU4N2Y0NmY3MDUx/MGUyMTNjYTFmYTBk/N2M3ODhjZC93d3cu/d2luZG93c21vZGUu/Y29tLw"
+                        },
+                        "https://zapier.com/blog/best-web-browser/": {
+                            "url": "https://zapier.com/blog/best-web-browser/",
+                            "title": "The 7 best web browsers in 2026",
+                            "snippet": "## The best web browsers at a glance\n…--- | --- | --- |\n| Google Chrome  | Overall performance  | Massive amount of third-party extensions  |\n| Safari  | Apple devices  | Seamless integration across iPhone, iPad, and Mac  |\n| Microsoft Edge  | Windows devices  | Integrated AI chatbot and Windows optimization  |\n| Mozilla Firefox  | Privacy-first web browsing  | Open source software…",
+                            "favicon": "https://imgs.search.brave.com/rUnpoLu5DfS-QakqnhSngX2XdXgncYahdOlqsqMhpO0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGQ5Mzg2ZjM0/OWU3NGJmZmM4OWQ5/ZGU1OGIyOGNkZjli/MzI0ODg1OWNjZWQ3/OTVkZTczNTk2YzM1/NTQ3MTQ2Mi96YXBp/ZXIuY29tLw"
+                        },
+                        "https://www.bogleheads.org/forum/viewtopic.php?t=363969": {
+                            "url": "https://www.bogleheads.org/forum/viewtopic.php?t=363969",
+                            "title": "Best web browser on Windows - Bogleheads.org",
+                            "snippet": "For compatibility, chrome is best because of market share. Despite every browser except Firefox and safari being chromium based, my workplace encountered compatibility issue with edge. Security is good but chrome is also a bigger target.",
+                            "favicon": "https://imgs.search.brave.com/_VqqMFlr0nl4r4hWXklo_Ls5dx0CY8qdLrLNKZPYc2M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmE5NWEzMmI0/YTIxYjUyMWY2Yjk0/MmJjZWQ0N2I3OWM3/ZjhhZGMyZjY3ZmUw/ZGQyOGQyOWNiYzI1/Nzk2ZGNlZC93d3cu/Ym9nbGVoZWFkcy5v/cmcv"
+                        },
+                        "https://www.sigmabrowser.com/blog/best-browser-for-windows-11-in-2026-fast-private-ai-ready-picks": {
+                            "url": "https://www.sigmabrowser.com/blog/best-browser-for-windows-11-in-2026-fast-private-ai-ready-picks",
+                            "title": "Best Browser for Windows 11 in 2026: Fast, Private & AI-Ready Picks",
+                            "snippet": "…strong for Windows integration, while Brave and Sigma can feel cleaner on ad-heavy pages because blocking reduces page clutter.\n\nEdge is better if you want Windows 11 integration, Copilot, Sleeping Tabs, Microsoft account sync, and built-in security tools.",
+                            "favicon": "https://imgs.search.brave.com/JWBXyqe_j7Z1unWoXipnpm453f5I3PeXaoKNoUKqbhI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGNiNGUyYzli/ZWU5MjFiNmRjOGUw/OGI0NDMxZDhlMDA0/MzM0MTdmM2I4OTVh/ZjVhYTE3OTlmMjk4/NjUzMWZjMy93d3cu/c2lnbWFicm93c2Vy/LmNvbS8"
+                        }
+                    },
+                    "augmentations": [
+                        {
+                            "type": "augment_with_discussions",
+                            "query": "best browser for Windows reddit"
+                        }
+                    ],
+                    "ragUrls": [],
+                    "ragQueries": [],
+                    "followups": [
+                        "How do browser engines differ in RAM usage?",
+                        "Which browser is best for gaming performance?",
+                        "How to force a specific browser engine per site?"
+                    ],
+                    "usage": null,
+                    "sawText": true
+                },
+                {
+                    "index": 1,
+                    "question": null,
+                    "answerMd": "\n\n\n\nHere's a fuller comparison across the key dimensions:\n\n| Browser | Engine | Open Source | Privacy | Speed | Customization | Windows Integration | Best For | 2026 Status |\n|---|---|---|---|---|---|---|---|---|\n|  | Blink / V8 | No (Chromium is) | Moderate (Google telemetry) | Very fast | Moderate | Good (default search, sync) | Broadest compatibility, extensions | Active, ~80% market share |\n|  | Blink / V8 | No (Chromium is) | Moderate | Very fast | Moderate | **Best** (sleeping tabs, Copilot, IE Mode) | Windows-native productivity | Active |\n|  | Blink / V8 | Yes | **High** (built-in Shields) | Very fast | Moderate | Moderate | Privacy without leaving Chromium | Active |\n|  | Blink / V8 | No (Chromium is) | Moderate | Fast | **Highest** (tab stacks, tiling, shortcuts) | Moderate | Power users, multitasking | Active |\n|  | Blink / V8 | No (Chromium is) | Moderate | Fast | High | Moderate | Built-in VPN, messengers, AI sidebar | Active |\n|  | Gecko | **Yes** | **High** (no Google, ETP) | Fast | High | Moderate | Independent engine, privacy | Active |\n|  | Gecko (Firefox fork) | **Yes** | **High** | Fast | High (vertical tabs, Workspaces, Split View, Mods) | Moderate | Arc-like UX on Gecko, productivity | Active, growing fast |\n|  | Gecko (Firefox fork) | **Yes** | **Very High** (strips all tracking/AI) | Fast | Moderate | Low | Maximum privacy, no bloat | Active |\n|  | Goanna (legacy Gecko) | **Yes** | Moderate | Fast (lightweight) | **Very High** (native Win32 UI) | Good (native Windows) | Legacy/low-RAM systems, customization | ⚠️ Maintenance mode — final planned release 76.5.5 (Oct 2024); incompatible with major modern web apps |\n|  (Orion desktop) | Multi (Trident + WebKit + Blink) | No | Low | Moderate | Moderate | Moderate | Legacy multi-engine testing | ❌ **Discontinued** (desktop); mobile iLunascape still active |\n|  | Trident | No | Low | Slow | Low | Legacy only | Legacy intranet (use Edge IE Mode) | ❌ **Dead** (Jan 2023) |\n\n**Key takeaways:**\n\n- **Modern daily driver:** , , or  — all Blink, all excellent, pick based on ecosystem/privacy preference.\n- **Non-Chromium:**  is the safe pick;  is the exciting one if you want a modern UI without Chromium.\n- **Legacy engines are effectively dead.**  is the last one still getting any updates but is stuck on a 2014-era engine — fine for old intranet pages, not for the modern web.  desktop (the multi-engine one) is fully discontinued.",
+                    "citationsById": {
+                        "https://roxybrowser.com/blog/best-chromium-browser": {
+                            "url": "https://roxybrowser.com/blog/best-chromium-browser",
+                            "title": "10 Best Chromium Browsers in 2026: Which One Is Right for You?",
+                            "snippet": "# 10 Best Chromium Browsers in 2026: Which One Is Right for You?\n## TL;DR\n### At a Glance: The 10 Best Chromium Browsers by Use Case\nBest Use Case | Key Technical Differentiator |\n| --- | --- | --- | --- |\n| Microsoft Edge | Blink / V8 | Best Chromium browser for Windows and Microsoft 365 | Windows integration, Sleeping Tabs, and enterprise policy controls |\n| Brave | Blink / V8 | Best Chromium browser for privacy by default…",
+                            "favicon": "https://imgs.search.brave.com/lYbAM8ttAJbl3TFh55gwHkGHSac5jQ99Acc_5JAnu1c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODA4NzYxMTAy/NjZjN2FiNWQ1ZmEx/ZDkwYTlmNTdjZDZi/Mzg4MmJhODNmOTFi/NjU4YTc0NWQ1M2I4/ZmM2MWRlYy9yb3h5/YnJvd3Nlci5jb20v"
+                        },
+                        "https://factually.co/product-reviews/electronics-tech/best-lightweight-chromium-based-browsers-2026-86744c": {
+                            "url": "https://factually.co/product-reviews/electronics-tech/best-lightweight-chromium-based-browsers-2026-86744c",
+                            "title": "Best Lightweight Chromium-Based Browsers for 2026",
+                            "snippet": "# Best Lightweight Chromium-Based Browsers for 2026\n1) Brave — Best overall lightweight daily driver: privacy blocks by default, strong extension compatibility, and consistent community praise for speed make it the top practical pick for most users ^[1] [2]…",
+                            "favicon": "https://imgs.search.brave.com/kTL5oZgqgwcRrT8aAucrT4kxpywU1pRmtictlvTMxPc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjc2MGFkYTE1/YmFjYTM2MDU1ZmQ5/MmQ0YTFiOGMxZjUy/ZTI0MGVhODNiZjlk/ZmYwZWFkY2ZiMzVl/NDc0ZTc0OC9mYWN0/dWFsbHkuY28v"
+                        },
+                        "https://factually.co/product-reviews/electronics-tech/best-minimal-chromium-based-browsers-2026-33f3df": {
+                            "url": "https://factually.co/product-reviews/electronics-tech/best-minimal-chromium-based-browsers-2026-33f3df",
+                            "title": "Best Minimal Chromium-Based Browsers in 2026",
+                            "snippet": "Choose Brave if you want a strong privacy/default ad‑blocking experience with minimal setup and good speed; pick Thorium when RAM is your binding constraint on older hardware; use Ungoogled Chromium when the goal is maximum removal of Google components and…",
+                            "favicon": "https://imgs.search.brave.com/kTL5oZgqgwcRrT8aAucrT4kxpywU1pRmtictlvTMxPc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjc2MGFkYTE1/YmFjYTM2MDU1ZmQ5/MmQ0YTFiOGMxZjUy/ZTI0MGVhODNiZjlk/ZmYwZWFkY2ZiMzVl/NDc0ZTc0OC9mYWN0/dWFsbHkuY28v"
+                        },
+                        "https://browsers.to/zen-browser": {
+                            "url": "https://browsers.to/zen-browser",
+                            "title": "Zen Browser - Everything You Should Know in 2026",
+                            "snippet": "# Zen Browser\n## About Zen Browser\n…of Firefox and wraps it in a beautiful, modern interface inspired by Arc. It brings features like vertical tabs, split views, and workspaces to the Gecko ecosystem, proving that you don't need Chromium to have a cutting-edge UI",
+                            "favicon": "https://imgs.search.brave.com/cWFunnIK41PsZZBNnBlJggvR-QCsSlC6kdt3yXL0JTE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmJmMjc0Zjk2/YWQ3YjUyZjk2NTc0/N2QzMTEwZTZiMjY2/OWI2ZGU2NDkzYmIy/ZTM4N2YyNjhlNTU5/ODA2YzcxYi9icm93/c2Vycy50by8"
+                        },
+                        "https://www.sigmabrowser.com/blog/zen-browser-vs-firefox-privacy-speed-customization-in-2026": {
+                            "url": "https://www.sigmabrowser.com/blog/zen-browser-vs-firefox-privacy-speed-customization-in-2026",
+                            "title": "Zen Browser vs Firefox in 2026: Which Browser Should You Choose?",
+                            "snippet": "## Zen Browser vs Firefox at a glance\n### TL;DR\n**Choose Zen Browser** if you want a more modern Firefox-based browser with Workspaces, vertical tabs, Split View, Compact Mode, and stronger built-in UI organization",
+                            "favicon": "https://imgs.search.brave.com/JWBXyqe_j7Z1unWoXipnpm453f5I3PeXaoKNoUKqbhI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGNiNGUyYzli/ZWU5MjFiNmRjOGUw/OGI0NDMxZDhlMDA0/MzM0MTdmM2I4OTVh/ZjVhYTE3OTlmMjk4/NjUzMWZjMy93d3cu/c2lnbWFicm93c2Vy/LmNvbS8"
+                        },
+                        "https://supasidebar.com/blog/chrome-alternatives-2026": {
+                            "url": "https://supasidebar.com/blog/chrome-alternatives-2026",
+                            "title": "Chrome Alternatives (2026): Best Browsers to Switch To",
+                            "snippet": "Browsers to Switch To\n## The seven Chrome alternatives worth considering in 2026\n| Browser | Engine | Best For | Manifest V3 Impact | macOS / Windows / Linux |\n| --- | --- | --- | --- | --- |\n| Zen Browser | Gecko | Arc refugees who want vertical tabs + workspaces | Unaffected (Firefox-based) | All three |\n| Opera | Ch…",
+                            "favicon": "https://imgs.search.brave.com/X2SgGaRp9caK-OJojeTqT2PAFKcCkAX1R0Rw2WSMcso/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzExY2EyY2Y1/Yjk4ZTUzZDI0YTc5/MDU1MTY2ZTI5OWM1/ZDg1OTZiZGQ0NjBm/M2MxZTYxYTdjOGVm/YmJiYjBjNS9zdXBh/c2lkZWJhci5jb20v"
+                        },
+                        "https://www.reddit.com/r/browsers/comments/sti7zh/what_happened_to_lunascape/": {
+                            "url": "https://www.reddit.com/r/browsers/comments/sti7zh/what_happened_to_lunascape/",
+                            "title": "r/browsers on Reddit: What Happened to Lunascape?",
+                            "snippet": "## niutech\nLunascape is dead.",
+                            "favicon": "https://imgs.search.brave.com/U-eHNCapRHVNWWCVPPMTIvOofZULh0_A_FQKe8xTE4I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+                        }
+                    },
+                    "augmentations": [
+                        {
+                            "type": "augment_with_images",
+                            "query": "browser engine comparison chart"
+                        }
+                    ],
+                    "ragUrls": [
+                        "http://kmeleonbrowser.org/download.php",
+                        "http://kmeleonbrowser.org/forum/read.php?19%2C154431=",
+                        "http://kmeleonbrowser.org/wiki/Download?version=157",
+                        "http://kmeleonbrowser.org/wiki/DownloadsArchive",
+                        "http://kmeleonbrowser.org/wiki/FAQ",
+                        "https://agecalcai.com/blog/zen-browser-review.html",
+                        "https://apps.apple.com/us/app/lunascape-browser/id380065805",
+                        "https://browsers.to/articles/best-chromium-browsers",
+                        "https://browsers.to/compare/firefox-vs-zen-browser",
+                        "https://browsers.to/zen-browser",
+                        "https://bundl.run/compare/zen-browser-vs-firefox",
+                        "https://darwindynamic.com/2026-zen-browser-review/",
+                        "https://dicloak.com/blog-detail/best-chromium-browsers-in-2026-speed-privacy-and-use-cases",
+                        "https://en.wikipedia.org/wiki/K-Meleon",
+                        "https://en.wikipedia.org/wiki/Zen_Browser",
+                        "https://factually.co/product-reviews/electronics-tech/best-lightweight-chromium-based-browsers-2026-86744c",
+                        "https://factually.co/product-reviews/electronics-tech/best-minimal-chromium-based-browsers-2026-33f3df",
+                        "https://fossforce.com/2026/01/get-your-zen-on-with-zen-browser/",
+                        "https://ilunascape-2-web-browser.soft112.com/",
+                        "https://joeblu.com/blog/2026_02_zen-a-browser-you-can-love/",
+                        "https://lunascape.en.softonic.com/",
+                        "https://lunascape.en.uptodown.com/windows",
+                        "https://pitchbook.com/profiles/company/93776-77",
+                        "https://pixelscan.net/blog/the-best-chromium-browsers/",
+                        "https://play.google.com/store/apps/details?id=jp.co.lunascape.android.ilunascape&hl=en_IN",
+                        "https://play.google.com/store/apps/details?id=jp.co.lunascape.android.ilunascape&hl=en_US",
+                        "https://portableapps.com/apps/internet/k-meleon-portable",
+                        "https://roxybrowser.com/blog/best-chromium-browser",
+                        "https://slashdot.org/software/comparison/Mozilla-Firefox-vs-Zen-Browser/",
+                        "https://sourceforge.net/projects/kmeleon/reviews/",
+                        "https://supasidebar.com/blog/chrome-alternatives-2026",
+                        "https://supasidebar.com/blog/zen-browser-features-guide-2026",
+                        "https://supasidebar.com/blog/zen-browser-mac-review-2026",
+                        "https://windowstan.com/software/k-meleon/",
+                        "https://www.adspower.com/blog/top-10-chromium-based-browsers-in-2025",
+                        "https://www.filehorse.com/download-k-meleon-browser/",
+                        "https://www.filehorse.com/download-k-meleon-browser/30030/download/",
+                        "https://www.filehorse.com/download-lunascape-browser/",
+                        "https://www.fosshub.com/K-Meleon.html",
+                        "https://www.getzen.cash/guides/zen-browser-review/",
+                        "https://www.lightbook.org/k-meleon-browser-free-download/",
+                        "https://www.lunascape.org/browser/mobile",
+                        "https://www.lunascape.org/browser/orion",
+                        "https://www.neowin.net/software/k-meleon-750/",
+                        "https://www.reddit.com/r/automation/comments/1q5b9v2/best_browser_for_2026_that_supports_extensions/",
+                        "https://www.reddit.com/r/browsers/comments/r1wvbd/is_lunascape_still_updated_today/",
+                        "https://www.reddit.com/r/browsers/comments/sti7zh/what_happened_to_lunascape/",
+                        "https://www.sigmabrowser.com/blog/zen-browser-vs-firefox-privacy-speed-customization-in-2026",
+                        "https://www.webbrowserdirectory.com/browsers/k-meleon/",
+                        "https://www.webbrowserdirectory.com/browsers/lunascape/",
+                        "https://www.whatismybrowser.com/guides/big-list-of-all-web-browsers/view/k-meleon",
+                        "https://zen-browser.app/release-notes/"
+                    ],
+                    "ragQueries": [
+                        "best Chromium browsers 2026 comparison",
+                        "K-Meleon browser 2026 status",
+                        "Lunascape browser 2026 status",
+                        "Firefox Zen Browser 2026 features"
+                    ],
+                    "followups": [
+                        "How do these browsers handle AI features in 2026?",
+                        "Which browser has the best security against malware?",
+                        "What are the privacy trade-offs of Vivaldi's features?"
+                    ],
+                    "usage": {
+                        "prompt_tokens": 20691,
+                        "completion_tokens": 1068,
+                        "reasoning_tokens": 297
+                    },
+                    "sawText": true
+                }
+            ],
+            "updatedAt": 1790241258666
+        },
+        "099af5eddcc71e98fe5ba4a8edc2a993a4f5": {
+            "turns": [
+                {
+                    "index": 1,
+                    "question": null,
+                    "answerMd": "Google ChromeMicrosoft EdgeBraveVivaldiOperaMozilla FirefoxZen BrowserLibreWolfK-MeleonLunascapeInternet ExplorerChromeEdgeBraveFirefoxZen BrowserK-MeleonLunascape",
+                    "citationsById": {},
+                    "augmentations": [],
+                    "ragUrls": [],
+                    "ragQueries": [],
+                    "followups": [],
+                    "usage": null,
+                    "sawText": true
+                }
+            ],
+            "updatedAt": 1790241257738
+        }
+    },
+    "lastSeenAt": 1790241258666,
+    "chunks": 1
+}
+
